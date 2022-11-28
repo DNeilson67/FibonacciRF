@@ -81,6 +81,8 @@ parameter: 100000
 ```
 Lastly, To check the CPU Usage, go to task manager and find VmmemWSL. 
 ![](ss/iterative.png)
+
+\
 \
 To check the space complexity of the Fibonacci Iterative, run this code below:
 ```c
