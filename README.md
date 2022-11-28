@@ -17,7 +17,7 @@ Lastly, running this code will ask you the numbers for the Fibonacci and instant
 ./main.out
 ```
 Results:
-```c
+```
 Input a number:10
 Fibonacci Iterative of 10 = 55
 Fibonacci Recursive of 10 = 55
