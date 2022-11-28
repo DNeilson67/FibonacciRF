@@ -25,11 +25,12 @@ Fibonacci Recursive of 10 = 55
 
 ## Time complexity Benchmark
 Running these codes will describe the amount of computer time it takes to run an algorithm.
+\
 Disclaimer: If you haven't run the code above before, the benchmark won't work. Thus, if you want to do the benchmark without running the code above. You need to run this first:
 ```c
 make mylib.o
 ```
-
+\
 To see the time complexity of Fibonacci Iterative, you need to do this:
 ```c
 make timei
@@ -61,6 +62,7 @@ Time taken Fibonacci Recursive of 10 :0.000002 seconds
 ## Space Complexity Benchmark
 
 This will show the total space taken by the algorithm with respect to the input size.
+\
 
 Disclaimer: If you haven't run the code above before, the benchmark won't work. Thus, if you want to do the benchmark without running the code above. You need to run this first:
 ```
