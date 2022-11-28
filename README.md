@@ -72,7 +72,7 @@ press Ctrl + C to interrupt the process
 parameter: 100000
 ```
 Lastly, To check the CPU Usage, go to task manager and find VmmemWSL. 
-!ss/iterative.png
+!(ss/iterative.png)
 \
 To check the space complexity of the Fibonacci Iterative, run this code below:
 ```c
@@ -85,4 +85,4 @@ press Ctrl + C to interrupt the process
 parameter: 100000
 ```
 Lastly, To check the CPU Usage, go to task manager and find VmmemWSL. 
-!ss/recursive.png
+!(ss/recursive.png)
