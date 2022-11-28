@@ -16,6 +16,12 @@ Lastly, running this code will ask you the numbers for the Fibonacci and instant
 ```c
 ./main.out
 ```
+Results:
+```c
+Input a number:10
+Fibonacci Iterative of 10 = 55
+Fibonacci Recursive of 10 = 55
+```
 
 ## Time complexity Benchmark
 Running these codes will describe the amount of computer time it takes to run an algorithm.
