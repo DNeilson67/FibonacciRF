@@ -29,12 +29,28 @@ To see the time complexity of Fibonacci Iterative, you need to do this:
 make timei
 ./timei.out
 ```
+Then the program asks you to put the number what you want.
+```
+Input a number: 10
+```
+Lastly, the program will display the results.
+```
+Time taken Fibonacci Iterative of 10 :0.000001 seconds
+```
+\
 To see the time complexity of Fibonacci Recursive, you need to do this:
 ```c
 make timer
 ./timer.out
 ```
-
+Then the program asks you to put the number what you want.
+```
+Input a number: 10
+```
+Lastly, the program will display the results.
+```
+Time taken Fibonacci Recursive of 10 :0.000002 seconds
+```
 
 ## Space Complexity Benchmark
 
@@ -44,31 +60,29 @@ Disclaimer: If you haven't run the code above before, the benchmark won't work. 
 ```
 make mylib.o
 ```
+\
 To check the space complexity of Fibonacci Iterative, run this code below:
 ```c
-make timei
-./timei.out
+make spacei
+./spacei.out
 ```
-
-Then the program asks you to put the number what you want.
+The program will display this.
 ```
-Input a number: 10
+press Ctrl + C to interrupt the process
+parameter: 100000
 ```
-Lastly, the program will display the results.
-```
-Time taken Fibonacci Iterative of 10 :0.000001 seconds
-```
+Lastly, To check the CPU Usage, go to task manager and find VmmemWSL. 
+!ss/iterative.png
+\
 To check the space complexity of the Fibonacci Iterative, run this code below:
 ```c
-make timer
-./timer.out
+make spacer
+./spacer.out
 ```
-
-Then the program asks you to put the number that you want.
+The program will display this.
 ```
-Input a number: 10
+press Ctrl + C to interrupt the process
+parameter: 100000
 ```
-Lastly, the program will display the results.
-```
-Time taken Fibonacci Recursive of 10 :0.000002 seconds
-```
+Lastly, To check the CPU Usage, go to task manager and find VmmemWSL. 
+!ss/recursive.png
