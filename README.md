@@ -1,6 +1,6 @@
 # Fibonacci Iterative and Recursive
 
-There are a few things that can be done in this repository, they are comparing Fibonacci iterative and recursive results, the time, and the CPU usage of both Fibonacci.
+There are few things that can be done in this repository, they are comparing Fibonacci iterative and recursive results, the time, and the CPU usage of both Fibonacci.
 ## Run
 
 Before running the algorithm, make sure to do this first:
