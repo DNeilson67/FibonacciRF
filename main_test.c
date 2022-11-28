@@ -4,10 +4,10 @@
 
 int main(void){
     int n;
-    printf("Please decide the integer for Fibonacci:");
+    printf("Input a number:");
     scanf("%d",&n);
-    printf("F(%d) = %d\n",n,fibonacciIterative(n));
-    printf("F(%d) = %d\n",n,fibonacciRecursive(n));
+    printf("Fibonacci Iterative of %d = %d\n",n,fibonacciIterative(n));
+    printf("Fibonacci Recursive of %d = %d\n",n,fibonacciRecursive(n));
 
     return 0;
 }
